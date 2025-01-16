@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DelegatesApp" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PathToFilesCatalog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\фото\2023 Италия + Ганновер</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
