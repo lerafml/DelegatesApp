@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="PathToFilesCatalog" Type="System.String" Scope="User">
-      <Value Profile="(Default)">E:\фото\2023 Италия + Ганновер</Value>
+      <Value Profile="(Default)">C:\Users\necra\Downloads</Value>
     </Setting>
   </Settings>
 </SettingsFile>

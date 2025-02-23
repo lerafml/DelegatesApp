@@ -25,7 +25,7 @@ namespace DelegatesApp {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("E:\\фото\\2023 Италия + Ганновер")]
+        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\necra\\Downloads")]
         public string PathToFilesCatalog {
             get {
                 return ((string)(this["PathToFilesCatalog"]));
